@@ -17,3 +17,5 @@ Tech Stack
 - AI: Google Generative AI (Gemini)
 - Frontend: React (Create React App), Axios
 - Orchestration: Sequential agent workflow
+
+save you api key credential and other variables in .env
